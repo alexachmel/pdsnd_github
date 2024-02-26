@@ -54,4 +54,10 @@ The Chicago and New York City files also have the following two columns:
 
 ## Credits
 Udacity repository:  
-https://github.com/udacity/pdsnd_github/
+https://github.com/udacity/pdsnd_github/  
+Chicago dataset:  
+https://divvybikes.com/system-data  
+New York City dataset:  
+https://citibikenyc.com/system-data  
+Washington dataset:  
+https://capitalbikeshare.com/system-data
